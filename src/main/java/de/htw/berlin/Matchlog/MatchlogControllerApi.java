@@ -15,5 +15,3 @@ public class MatchlogControllerApi {
         return matches;
     }
 }
-
-
